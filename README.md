@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **vishubanna321@gmail.com**
 
-<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+<img align="right" alt="coding" width="450" height="500" src="https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,6 @@
 
 <p><img align="center"style="black" width = 250 src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwastanwar&show_icons=true&locale=en&layout=compact" alt="vishwastanwar" /></p>
 <p>&nbsp;<img align="center" width =500 src="https://github-readme-stats.vercel.app/api?username=vishwastanwar&show_icons=true&locale=en" alt="vishwastanwar" /></p>
+<img align="right" alt="coding" width="500" height = "200"  src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif"> 
 <p>&nbsp;<img align="center" width =500 src="https://github-readme-streak-stats.herokuapp.com/?user=vishwastanwar&" alt="vishwastanwar" /></p>
+
