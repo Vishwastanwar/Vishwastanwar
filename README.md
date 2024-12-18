@@ -20,6 +20,6 @@
 
 <p><img align="center"style="black" width = 250 src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwastanwar&show_icons=true&locale=en&layout=compact" alt="vishwastanwar" /></p>
 <p>&nbsp;<img align="center" width =500 src="https://github-readme-stats.vercel.app/api?username=vishwastanwar&show_icons=true&locale=en" alt="vishwastanwar" /></p>
-<img align="right" alt="coding" width="500" height = "200"  src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif"> 
+<img align="right" alt="coding" width="400" height = "200"  src="https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif"> 
 <p>&nbsp;<img align="center" width =500 src="https://github-readme-streak-stats.herokuapp.com/?user=vishwastanwar&" alt="vishwastanwar" /></p>
 
