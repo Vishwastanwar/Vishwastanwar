@@ -1,4 +1,4 @@
-![logo](https://github.com/Vishwastanwar/Vishwastanwar/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image.png)
+
 <h1 align="center">Hi 👋, I'm Vishwas Tanwar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
