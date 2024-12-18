@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vishwas Tanwar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/b3b04623550754e3b185c3f420ef765842c38a6ae4a0510b56e957fdffc2876d/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d31303234253537362673736c3d31">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwastanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vishwastanwar" /> </p>
 
 - 📫 How to reach me **vishubanna321@gmail.com**
+
+<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
